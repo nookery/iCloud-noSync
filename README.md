@@ -1,6 +1,11 @@
 # iCloud-noSync
 让macOS中的iCloud云盘可以不同步指定的文件
 
+## 系统要求
+
+- macOS 10.14.4 测试通过
+- 其他版本未进行测试
+
 ## 安装
 
 下载本项目后，双击安装其中的 `noSync.workflow`。
@@ -20,3 +25,4 @@
 ## 参考的项目
 
 https://alvaropinot.github.io/nocloud/
+https://github.com/tsdexter/iCloud-NoSync
